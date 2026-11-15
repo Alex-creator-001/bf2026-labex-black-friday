@@ -397,6 +397,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Broadcast](https://sendbroadcast.net/black-friday) | $100 off · one-time license | $150.00 one-time · Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | See offer | — | — |
 | [Chatbase](https://www.chatbase.co/pricing) | See offer | — | — |
+| [Citation Rocket](https://www.citationrocket.com/pricing?utm_source=labex&utm_medium=bf_list&utm_campaign=bf2026) | 40% off · lifetime | $59.00 once · Lifetime | — |
 | [CiteWing](https://citewing.com/) | 36% off Pro; 50% off submissions | $95.00 / month · Pro | — |
 | [Clientish](https://clientish.co/black-friday-client-management-portal-deal/) | 30% off | $67.20 / year | `BF30` |
 | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | 50% off | $50.00 / year | — |
