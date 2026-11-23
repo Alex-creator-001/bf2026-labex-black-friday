@@ -297,7 +297,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Crisp](https://crispvideo.app/pricing/) | 50% off | $14.50 · one-time | — |
 | [Cue (AppsByMo)](https://appsbymo.app/cue/) | 50% off | $14.50 · one-time | `BLACKFRIDAY` |
 | [Cue (iOS)](https://apps.apple.com/app/id6805111378) | 25% off Pro | $18.90 · lifetime | `BLACKFRIDAY2026` |
-| [DataCheck](https://datacheck.cc/en/pricing) | 30% off · one-time & perpetual | From HK$81.20 (~$10.35) · one-time | — |
+| [datacheck.cc](https://datacheck.cc/en/pricing) | 30% off · one-time & perpetual | From HK$81.20 (~$10.35) · one-time | — |
 | [Dayora](https://www.dayora.ai/black-friday) | 40% off | $43.20 / year | — |
 | [Deckloud](https://deckloud.com/black-friday/) | 40% off | $22.99 · lifetime | `BF2026` |
 | [Dictionaries](https://dictionaries.io/) | 50% off | $9.99 · lifetime | `BF26` |
